@@ -1,0 +1,2 @@
+Region,Vaccine,Year,Percentage,Description
+Western_Europe,HEPBB,2018,9,hepatitis B

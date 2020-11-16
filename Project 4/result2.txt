@@ -1,0 +1,5 @@
+Region,Vaccine,Year,Percentage,Description
+Western_Europe,DTP1,2016,98,diphteria_pertussis_tetanus
+North_America,HEPB3,2016,91,hepatitis B
+Eastern_and_Southern_Africa,MCV2,2014,15,meningococcal_disease
+Eastern_and_Southern_Africa,POL3,2016,80,polio

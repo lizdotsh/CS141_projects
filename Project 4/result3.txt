@@ -1,0 +1,4 @@
+Region,Vaccine,Year,Percentage,Description
+South_Asia,RCV1,2005,1,rubella
+Western_Europe,RCV1,1982,16,rubella
+Eastern_Europe_and_Central_Asia,RCV1,1992,1,rubella

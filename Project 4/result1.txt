@@ -1,0 +1,4 @@
+Region,Vaccine,Year,Percentage,Description
+Eastern_Europe_and_Central_Asia,DTP3,1982,51,diptheria_pertussis_tetanus
+South_Asia,RCV1,2005,1,rubella
+Eastern_Europe_and_Central_Asia,RCV1,1992,1,rubella

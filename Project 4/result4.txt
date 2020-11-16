@@ -1,0 +1,3 @@
+Region,Vaccine,Year,Percentage,Description
+Middle_East_and_North_Africa,DTP3,1989,85,diptheria_pertussis_tetanus
+Middle_East_and_North_Africa,DTP3,2010,92,diptheria_pertussis_tetanus
